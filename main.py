@@ -1,5 +1,5 @@
 def main():
-    print("Hello from open-tree-counter!")
+    print("Hello from tree-counts-open-source!")
 
 
 if __name__ == "__main__":
